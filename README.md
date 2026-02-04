@@ -137,7 +137,7 @@ Original file line number	Diff line number	Diff line change
 <p>We may update this Privacy Policy from time to time. We will notify you of material changes by updating the "Effective Date" at the top of this page. Continued use of the app after changes constitutes acceptance of the updated policy.</p>
 <h2>9. Contact Us</h2>
 <p>If you have questions about this Privacy Policy or wish to exercise your data rights, contact us at:</p>
-<p><a href="mailto:privacy@dindin.app">privacy@dindin.app</a></p>
+<p><a href="mailto:blake1.samani@gmail.com">privacy@dindin.app</a></p>
 </body>
 </html>
 ‎readme.md‎
